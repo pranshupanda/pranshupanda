@@ -1,4 +1,12 @@
-## Hi there 👋
+I'm Pranshu, a Computer Science undergraduate at the University of Minnesota, graduating in Spring 2026. I am motivated to design novel machine learning methods inspired by practical challenges, grounding abstract principles in real-world contexts and using iterative experimentation to guide their development. 
+Currently, under the mentorship of Assistant Professor Aryan Deshwal, I work on probabilistic machine learning methods to accelerate scientific discovery, with a focus on Bayesian Optimization in discrete domains and real-world applications such as protein design. I am also a Research Intern at the Indian Institute of Technology Delhi, where I am implementing a Bayesian Optimization pipeline to tune cache management policy hyperparameters, improving system throughput via data-driven configuration search in a black-box setting. Previously, as a Software Engineering Intern at Stryker, I was responsible for fine-tuning Computer Vision models in a healthcare setting. 
+
+## Skills
+ * **Languages:** Python, C, Java, OCaml, x86 Assembly, HTML/CSS, shell
+ * **AI/ML Concepts:** Probabilistic Modelling, Uncertainty Quantification, Supervised/Unsupervised Learning, LLMs
+ * **Libraries/Frameworks/Tools:** PyTorch, GPyTorch, BoTorch, Scikit-learn, Pandas, Numpy, Matplotlib, Git
+
+
 
 <!--
 **pranshupanda/pranshupanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

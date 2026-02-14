@@ -9,30 +9,27 @@ Currently, under the mentorship of Assistant Professor Aryan Deshwal, I work on 
  * **Libraries/Frameworks/Tools:** PyTorch, GPyTorch, BoTorch, Scikit-learn, Pandas, Numpy, Matplotlib, Git
 
 ## Projects 
-* **Fine-Tuning of Transformers with LoRA: A Comparative Study**
-  
+* **Fine-Tuning of Transformers with LoRA: A Comparative Study**  
   Benchmarked Low-Rank Adaptation (LoRA) against full-model and head-only fine-tuning on SST-2 and IMDB; demonstrated that
   LoRA achieves superior accuracy on SST-2 (94.27% vs 93.81%) and parity on IMDB (~95.5%), validating PEFT as a robust
-  alternative to computationally expensive full fine-tuning.
+  alternative to computationally expensive full fine-tuning.  
   [Code](https://github.com/pranshupanda/LoRA-Comparative-Study)
-  
-* **Shortest Paths for Trivially Partitioned Graphs**
-  
+
+* **Shortest Paths for Trivially Partitioned Graphs**  
   Optimized and analyzed Dijkstra’s Algorithm and A* Search using a hierarchical graph partitioning strategy, achieved up
-  to a 52.7% runtime reduction on large trivially partitioned graphs.
+  to a 52.7% runtime reduction on large trivially partitioned graphs.  
   [Code](https://github.com/pranshupanda/Shortest-Path-Algorithms)
-  
-* **Sample-Efficient Protein Design via Bayesian Optimization**
-  
+
+* **Sample-Efficient Protein Design via Bayesian Optimization**  
   Designing a sample-efficient Bayesian optimization framework for discrete protein design, combining evolutionary search with
-  categorical surrogates and evaluating on synthetic and life-science benchmarks to improve efficiency and runtime.
+  categorical surrogates and evaluating on synthetic and life-science benchmarks to improve efficiency and runtime.  
   _Code coming soon_
 
-* **Bayesian Optimization for Shared Cache Management in On-Chip Multiprocessors**
-  
+* **Bayesian Optimization for Shared Cache Management in On-Chip Multiprocessors**  
   Designing and implementing a Bayesian Optimization pipeline to optimize shared cache management policy
-  parameters, improving on-chip multiprocessor system performance via data-driven configuration search.
+  parameters, improving on-chip multiprocessor system performance via data-driven configuration search.  
   _Code coming soon_
+
 
 
 <!--

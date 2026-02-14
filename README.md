@@ -1,7 +1,7 @@
 I'm Pranshu, a Computer Science undergraduate at the University of Minnesota, graduating in Spring 2026. I am motivated to design novel machine learning methods inspired by practical challenges, grounding abstract principles in real-world contexts and using iterative experimentation to guide their development. 
 Currently, under the mentorship of Assistant Professor Aryan Deshwal, I work on probabilistic machine learning methods to accelerate scientific discovery, with a focus on Bayesian Optimization in discrete domains and real-world applications such as protein design. I am also a Research Intern at the Indian Institute of Technology Delhi, where I am implementing a Bayesian Optimization pipeline to tune cache management policy hyperparameters, improving system throughput via data-driven configuration search in a black-box setting. Previously, as a Software Engineering Intern at Stryker, I was responsible for fine-tuning Computer Vision models in a healthcare setting. 
 
-📄 Resume: [Resume (PDF)](./resume.pdf) _Updated February 1, 2026_
+📄 Resume: [View PDF](./resume.pdf) _Updated February 1, 2026_
 
 ## Skills
  * **Languages:** Python, C, Java, OCaml, x86 Assembly, HTML/CSS, shell
